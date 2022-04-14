@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cultural Analytics: An Open Science Guide",
+    "section": "",
+    "text": "This is a textbook to learn how to analyze cultural phenomena using computational methods.\nIt follows the principles of Open Science to teach you how to conduct research that is ethical, methodologically solid, and accessible. Topics covered include:\n\ntheory development\ndata management\ndata collection\ndata analysis\ndata visualization.\n\nWe believe that none of these aspects should be disregarded in a cultural analytics project that aims at being truly Open.\nThe programming language used is Python. There are discursive sections and interactive Jupyter Notebooks to let you learn-by-doing.\n\nInspiration for this guide come from the following sources:\n\nThe Turing Way handbook to reproducible, ethical and collaborative data science, initiated by The Alan Turing Institute\nIntroduction to Cultural Analytics & Python by Melanie Walsh"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]
